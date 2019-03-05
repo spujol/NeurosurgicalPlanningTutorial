@@ -1,6 +1,6 @@
 
 
-The <a href="spujol.github.io/NeurosurgicalPlanningTutorial/WhiteMatterExplorationTutorial_SoniaPujol-RonKikinis.pdf" target="_blank"> Neurosurgical Planning tutorial </a>  shows how to generate white matter fiber tracts in the vicinity of a tumor.
+The <a href="http://spujol.github.io/NeurosurgicalPlanningTutorial/WhiteMatterExplorationTutorial_SoniaPujol-RonKikinis.pdf" target="_blank"> Neurosurgical Planning tutorial </a>  shows how to generate white matter fiber tracts in the vicinity of a tumor.
 
 Authors
 * Sonia Pujol, Ph.D, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
