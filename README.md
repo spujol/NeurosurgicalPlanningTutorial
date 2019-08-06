@@ -9,7 +9,7 @@ Authors
 
 Materials
 * Software: [3D Slicer release version 4.10](https://download.slicer.org/)
-* Dataset: [White Matter Exploration dataset](https://www.slicer.org/wiki/File:WhiteMatterExplorationData.zip)
+* Dataset: [White Matter Exploration dataset](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=0)
 
 
 
