@@ -11,5 +11,7 @@ Materials
 * Software: [3D Slicer release version 4.10](https://download.slicer.org/)
 * Dataset: [White Matter Exploration dataset](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=0)
 
+Contact information: spujol@bwh.harvard.edu
+
 
 
